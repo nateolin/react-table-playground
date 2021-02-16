@@ -1,5 +1,5 @@
 import React from "react";
-import useTable from "react-table";
+import { useTable } from "react-table";
 
 function Table() {
   const data = React.useMemo(
